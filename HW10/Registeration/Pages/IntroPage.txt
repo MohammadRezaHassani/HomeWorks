@@ -1,0 +1,7 @@
+Welcome To Registration Page
+    0_ Register in the system
+    1_ Upload your registration File
+    2_ see all registered Users
+    3_ Exit
+
+

@@ -1,0 +1,22 @@
+body{
+    font-family: sans-serif;
+}
+
+code{
+    font-family: sans-serif;
+    color: red;
+}
+
+.second-tag{
+    color: green;
+}
+
+li + li{
+    background: black;
+    color: white;
+}
+
+ol li {
+    background: black;
+    color: white;
+}

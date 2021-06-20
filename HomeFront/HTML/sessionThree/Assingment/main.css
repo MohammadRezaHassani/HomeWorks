@@ -1,0 +1,25 @@
+.box-model{
+    border: black dashed 5px;
+    padding: 10px 5px 7px 6px ;
+    margin: 10px 5px 7px 6px;
+}
+
+ol ~ div {
+    display: inline-block;
+    height: 300px;
+    width: 47%;
+}
+
+/*.hide{
+    display: none;
+}*/
+
+div#kir:hover{
+    background: white;
+    border: black solid;
+    text-align: center;
+}
+
+#kir{
+    background: green;
+}

@@ -1,0 +1,97 @@
+*{
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: "Century Schoolbook L";
+    margin: 0;
+
+}
+
+#course-overview {
+    background: #ff1b68 ;
+    height: 528px;
+    padding: 10px;
+
+}
+
+.section-title{
+    color: #2ddf5c;
+}
+
+#course-overview h1{
+    color: white;
+    font-family: "Montserrat", sans-serif;
+}
+
+h1{
+    font-family: sans-serif;
+}
+
+.main-header{
+    background: green;
+    padding: 7px;
+    width: 100%;
+}
+
+
+.main-nav__items{
+    margin: 0;
+    padding: 0;
+
+}
+
+.main-nav__item{
+    display: inline-block;
+
+}
+
+.main-header__link{
+    display: inline-block;
+}
+
+.main-nav {
+    display: inline-block;
+     text-align: right;
+    width: calc(100% - 60px);
+    vertical-align: middle;
+}
+
+.brand{
+    color: lightblue;
+    text-decoration: none;
+    font-size: 22px;
+    vertical-align: middle;
+}
+
+.item-links{
+    text-decoration: none;
+    margin: 0 15px;
+    color: lightblue;
+}
+
+.item-links:hover{
+    color: white;
+    font-weight: bold;
+    border-bottom: 5px white solid;
+
+}
+
+.item-links:active{
+    color: black;
+}
+
+.main-nav__item--cta a{
+    color: white;
+    background: red;
+    padding: 5px 7px;
+    border-radius: 8px;
+}
+
+.main-nav__item--cta a:hover{
+    background: white;
+    color: black;
+    border: none;
+}
+
